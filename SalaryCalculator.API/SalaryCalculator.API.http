@@ -1,0 +1,6 @@
+@SalaryCalculator.API_HostAddress = http://localhost:5288
+
+GET {{SalaryCalculator.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
