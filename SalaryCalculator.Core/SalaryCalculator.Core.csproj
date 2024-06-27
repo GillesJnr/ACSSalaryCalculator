@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SalaryCalculator.Infrastructure\SalaryCalculator.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

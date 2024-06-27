@@ -25,7 +25,6 @@
   <ItemGroup>
     <ProjectReference Include="..\SalaryCalculator.Core\SalaryCalculator.Core.csproj" />
     <ProjectReference Include="..\SalaryCalculator.Infrastructure\SalaryCalculator.Infrastructure.csproj" />
-    <ProjectReference Include="..\SalaryCalculator.API\SalaryCalculator.API.csproj" />
   </ItemGroup>
 
 </Project>
