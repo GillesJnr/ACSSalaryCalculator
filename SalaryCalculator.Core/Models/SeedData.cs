@@ -63,7 +63,7 @@ namespace SalaryCalculator.Core.Models
                     // Seed pension tiers data
                     var users = new User[]
                     {
-                     new User { Id = 1, Username = "gilles", Password = "XohImNooBHFR0OVvjcYpJ3NgPQ1qq73WKhHvch0VQtg", DateCreated = Convert.ToDateTime("06-26-2024") },
+                     new User { Id = 1, Username = "admin", Password = "5E884898DA28047151D0E56F8DC6292773603D0D6AABBDD62A11EF721D1542D8", DateCreated = Convert.ToDateTime("06-26-2024") },
                     };
                     context.Users.AddRange(users);
                 }
